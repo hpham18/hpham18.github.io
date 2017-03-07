@@ -2604,7 +2604,17 @@
 			margin: 2.5em 0 0 2.5em;
 		}
 
-			
+			.tiles article > .image {
+				-moz-transition: -moz-transform 0.5s ease;
+				-webkit-transition: -webkit-transform 0.5s ease;
+				-ms-transition: -ms-transform 0.5s ease;
+				transition: transform 0.5s ease;
+				position: relative;
+				display: block;
+				width: 100%;
+				border-radius: 4px;
+				overflow: hidden;
+			}
 
 				.tiles article > .image img {
 					display: block;
