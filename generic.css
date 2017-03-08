@@ -1,0 +1,20 @@
+	.resize {
+	   	 width: 300px;
+	    height: auto;
+	    float: left;
+	    padding-right: 10px;
+	    padding-bottom: 90px;
+		}
+	.resize1 {
+		width: 300px;
+	    height: auto;
+	    float: left;
+	    padding-right: 10px;
+	    padding-bottom: 135px;
+	}
+	.clear {
+			clear: left;
+		}
+	.clear1 {clear: left;
+			text-align: center;
+		}
